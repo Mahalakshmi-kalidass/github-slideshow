@@ -2,5 +2,5 @@
 layout: slide
 title: second slide
 ----
-hii hello everyone
+you get what you give
 click left arrow to back
